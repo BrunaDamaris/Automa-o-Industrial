@@ -1,2 +1,2 @@
-# Automa-o-Industrial
+# Sorting Sation
 Projeto da matérial Automação Industrial
