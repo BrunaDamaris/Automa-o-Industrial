@@ -1,2 +1,2 @@
 # Sorting Sation
-Projeto da matérial Automação Industrial
+Projeto da disciplina Automação Industrial
